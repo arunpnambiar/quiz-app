@@ -1,4 +1,4 @@
-# React JS and Spring Boot
+# quiz-app (React JS and Spring Boot)
 
 # quiz-app Login
 ![login](https://user-images.githubusercontent.com/20945050/87860412-e84fb980-c95a-11ea-83d5-541447cd223f.png)
